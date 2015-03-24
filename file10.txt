@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 changes in sribranch2
+=======
+change in sribranch1
+>>>>>>> sribranch1
